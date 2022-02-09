@@ -26,7 +26,7 @@
 /* LinearActuator Class Constants definition */
 #define ACTUATOR_EXTEND 0           //Comments
 #define ACTUATOR_RETRACT 1          //Comments
-#define ACTUATOR_SPEED_STOP 0       //Comments
+#define ACTUATOR_SPEED_STOP 0       //Comments 
 #define ACTUATOR_SPEED_HALF 127     //Comments
 #define ACTUATOR_SPEED_FULL 255     //Comments
 
