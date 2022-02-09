@@ -21,7 +21,7 @@
 
 // SensorArray class constants definition
 #define SENSOR_AXIS_SWING 1       //Comments
-#define SENSOR_AXIS_TILT 2        //Comments
+#define SENSOR_AXIS_TILT 2        //Comments 
 
 /* LinearActuator Class Constants definition */
 #define ACTUATOR_EXTEND 0           //Comments
