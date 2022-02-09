@@ -30,7 +30,7 @@
 #define ACTUATOR_SPEED_HALF 127     //Comments
 #define ACTUATOR_SPEED_FULL 255     //Comments
 
-
+ 
 /* I\O PIN MAPPING MODULE - Description  */ 
 //#define NANO_A0_PIN 0
 //#define NANO_A1_PIN 1
