@@ -7,7 +7,7 @@
 #define SolarTracker_h 
   
 
-/* I\O PIN MAPPING ARDUINO NANO MODULE - Main Controller Module  */
+/* I\O PIN MAPPING ARDUINO NANO MODULE - Main Controller Module  */ 
 //#include "header_file.h"
 
 
