@@ -30,7 +30,7 @@
 void SensorArray::SensorArray()
 {
   // CREATE LCDKeypad CLASS INSTANCES
-  //screen = new LCDKeypad();
+  //screen = new LCDKeypad(); 
   //---------------------------------------------
     
   // Initialize SensorArray CLASS INSTANCES
