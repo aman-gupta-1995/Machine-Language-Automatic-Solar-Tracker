@@ -58,7 +58,7 @@ int SensorArray::Refresh()
   int diff_swing = 0, swing_var = 0;
   
   this->CompareAxis(SENSOR_AXIS_SWING);
-  this->CompareAxis(SENSOR_AXIS_TILT);
+  this->CompareAxis(SENSOR_AXIS_TILT); 
 
   
   return 0;                                                                                                                                                                                                                                               
