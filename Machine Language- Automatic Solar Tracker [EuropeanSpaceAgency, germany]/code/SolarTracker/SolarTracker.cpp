@@ -4,7 +4,7 @@
 */
   
 /* Ensure this library's description is only included once  */  
-#if defined(ARDUINO) && ARDUINO >= 100       
+#if defined(ARDUINO) && ARDUINO >= 100        
   #include "Arduino.h"   
 #else  
   #include "WProgram.h" 
